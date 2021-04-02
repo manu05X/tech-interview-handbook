@@ -13,5 +13,10 @@ Recursion implicitly uses a stack. Hence all recursive approaches can be rewritt
 
 ## Recommended LeetCode questions
 
-- [Subsets](https://leetcode.com/problems/subsets/) and [Subsets II](https://leetcode.com/problems/subsets-ii/)
+- [Subsets](https://leetcode.com/problems/subsets/)
+- [Subsets II](https://leetcode.com/problems/subsets-ii/)
 - [Strobogrammatic Number II (LeetCode Premium)](https://leetcode.com/problems/strobogrammatic-number-ii/)
+- [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [Combination Sum-II](https://leetcode.com/problems/combination-sum-ii/)
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+- [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
